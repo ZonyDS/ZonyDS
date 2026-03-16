@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Iniciante`**
 
-Olá, sou Anthony Dias Soares. Atualmente estou cursando Ciência da Computação na Universidade de Vila Velha (UVV). Minha jornada acadêmica inclui o desenvolvimento de habilidades em linguagens fundamentais como C e C++, programação orientada a objetos com C#, e desenvolvimento front-end com HTML, CSS e JavaScript. Estou focado em expandir meu conhecimento e aplicar essas tecnologias em projetos práticos.
+Olá, sou Anthony Dias Soares. Atualmente estou cursando Engenharia De Software na Universidade de Vila Velha (UVV). Minha jornada acadêmica inclui o desenvolvimento de habilidades em linguagens fundamentais como C e C++, programação orientada a objetos com C#, e desenvolvimento front-end com HTML, CSS e JavaScript. Estou focado em expandir meu conhecimento e aplicar essas tecnologias em projetos práticos.
 
 <br>
 
